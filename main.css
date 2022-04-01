@@ -1,0 +1,24 @@
+body{
+    background-color:aliceblue;
+}
+textarea{
+    border-radius: 5em;
+    border-color:black;
+
+}
+.card{
+    background-color: beige;
+}
+h1{
+    color: brown;
+}
+
+.card-text{
+color: brown;
+
+}
+hr
+{
+    color:black;
+    
+}
